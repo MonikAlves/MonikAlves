@@ -20,7 +20,7 @@
   <tr>
     
    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MonikAlves&theme=tokyonight" height="200" >
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MonikAlves&theme=tokyonight&hide_total_contributions=true"" height="200" >
    </td>
   </tr>
 </table>
