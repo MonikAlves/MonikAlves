@@ -10,13 +10,10 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonikAlves&layout=compact&theme=tokyonight" alt="Top Langs" height="200" style="border: none;"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonikAlves&layout=compact&theme=tokyonight&hide=makefile" alt="Top Langs" height="200" style="border: none;"/>
     </td>
     <td>
-       <img src="https://github-readme-streak-stats.herokuapp.com/?user=MonikAlves&theme=tokyonight&hide_total_contributions=true"" height="200">
+       <img src="https://github-readme-stats.vercel.app/api?username=MonikAlves&theme=tokyonight&hide=stars&show_icons=true&count_private=true" alt="GitHub stats" height="200" style="border: none;"/>
     </td>
   </tr>
 </table>
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=MonikAlves&theme=tokyonight&hide=stars&show_icons=true&count_private=true" alt="GitHub stats" height="200" style="border: none;"/>
-<div/>
